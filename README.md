@@ -1,5 +1,3 @@
-# reimagined-disco
+# Refactored Code 
 
-<h1>Refactored Code</h1>
-
-<img src="screenshotHoriseon.html.png"> alt="screenshot" 
+![screenshot!](/Users/jameseades/Desktop/reimagined-disco/assets/images/search-engine-optimization.jpg)
