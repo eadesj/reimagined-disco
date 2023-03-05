@@ -6,4 +6,4 @@
 
 ![screenshot](assets/images/seomod1screenshot.png)
 
-git@github.com:jeades92/reimagined-disco.git
+file:///Users/jameseades/Desktop/reimagined-disco/index.html
