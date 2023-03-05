@@ -2,4 +2,4 @@
 
 <h1>Refactored Code</h1>
 
-<img src="screenshotHoriseon.html.png">
+<img src="screenshotHoriseon.html.png"> alt="screenshot" 
