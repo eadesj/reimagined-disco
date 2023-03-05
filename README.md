@@ -1,3 +1,5 @@
 # Refactored Code 
 
-![screenshot!](/Users/jameseades/Desktop/reimagined-disco/assets/images/search-engine-optimization.jpg)
+# Refactored Code 
+
+![screenshot](assets/images/seomod1screenshot.png)
